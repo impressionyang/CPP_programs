@@ -1,0 +1,107 @@
+#include<iostream>
+using namespace std;
+
+template <typename T>
+
+void sort2(T array_g[],int length){
+    T temp;
+    int i,j;
+    for(i=0;i<length-1;i++){
+        for(int j=i+1;j<length;j++){
+            if(array_g[i]>array_g[j]){
+                temp=array_g[i];
+                array_g[i]=array_g[j];
+                array_g[j]=temp;
+            }
+        }
+    }
+}
+
+void sort1(int array_g[],int length){
+    int temp;
+    int i,j;
+    for(i=0;i<length-1;i++){
+        for(int j=i+1;j<length;j++){
+            if(array_g[i]>array_g[j]){
+                temp=array_g[i];
+                array_g[i]=array_g[j];
+                array_g[j]=temp;
+            }
+        }
+    }
+}
+
+void sort1(float array_g[],int length){
+    float temp;
+    int i,j;
+    for(i=0;i<length-1;i++){
+        for(int j=i+1;j<length;j++){
+            if(array_g[i]>array_g[j]){
+                temp=array_g[i];
+                array_g[i]=array_g[j];
+                array_g[j]=temp;
+            }
+        }
+    }
+}
+
+void sort1(double array_g[],int length){
+    double temp;
+    int i,j;
+    for(i=0;i<length-1;i++){
+        for(int j=i+1;j<length;j++){
+            if(array_g[i]>array_g[j]){
+                temp=array_g[i];
+                array_g[i]=array_g[j];
+                array_g[j]=temp;
+            }
+        }
+    }
+}
+
+int main(){
+    int a[10]={2,5,3,7,5,8,5,7,3,9};
+    float b[10]={2,5,3,7,5,8,5,7,3,9};
+    double c[10]={2,5,3,7,5,8,5,7,3,9};
+
+    sort1(a,10);
+    for(int i=0;i<10;i++){
+        cout<<a[i]<<" ";
+    }
+    cout<<endl;
+
+    sort1(b,10);
+    for(int i=0;i<10;i++){
+        cout<<b[i]<<" ";
+    }
+    cout<<endl;
+
+    sort1(c,10);
+    for(int i=0;i<10;i++){
+        cout<<c[i]<<" ";
+    }
+    cout<<endl;
+
+    sort2(a,10);
+    for(int i=0;i<10;i++){
+        cout<<a[i]<<" ";
+    }
+    cout<<endl;
+
+    sort2(b,10);
+    for(int i=0;i<10;i++){
+        cout<<b[i]<<" ";
+    }
+    cout<<endl;
+
+    sort2(c,10);
+    for(int i=0;i<10;i++){
+        cout<<c[i]<<" ";
+    }
+    cout<<endl;
+
+    return 0;
+    
+
+
+}

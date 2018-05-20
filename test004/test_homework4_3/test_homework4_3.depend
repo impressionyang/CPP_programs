@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526702324 source:c:\users\impressionyang\desktop\实验4\test_homework4_3\time.cpp
+	<iostream>
+	"Time.h"
+
+1526702149 c:\users\impressionyang\desktop\实验4\test_homework4_3\time.h
+
+1526702324 source:c:\users\impressionyang\desktop\实验4\test_homework4_3\main.cpp
+	<iostream>
+	"Time.h"
+

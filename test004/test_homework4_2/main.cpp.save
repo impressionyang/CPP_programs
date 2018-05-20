@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+ {
+   Product Prod[3]={
+     Product(101,5,23.5),Product(102,12,24.56),Product(103,100,21.5)
+    };
+   for(int i=0;i<3;i++){
+    Prod[i].total();
+   }
+     
+   Product::display();
+   return 0;
+ }

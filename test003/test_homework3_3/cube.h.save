@@ -1,0 +1,14 @@
+#ifndef CUBE_H_INCLUDED
+#define CUBE_H_INCLUDED
+
+class Cube{
+private:
+    int length;
+    int width;
+    int height;
+    int volume;
+public:
+    Cube();
+};
+
+#endif // CUBE_H_INCLUDED

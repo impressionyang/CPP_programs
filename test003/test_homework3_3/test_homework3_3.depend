@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526695320 source:c:\users\impressionyang\desktop\实验3\test_homework3_3\main.cpp
+	<iostream>
+	"cube.h"
+
+1526108025 c:\users\impressionyang\desktop\实验3\test_homework3_3\cube.h
+
+1526108422 source:c:\users\impressionyang\desktop\实验3\test_homework3_3\cube.cpp
+	<iostream>
+	"cube.h"
+

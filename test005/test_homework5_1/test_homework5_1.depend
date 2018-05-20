@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526712859 source:c:\users\impressionyang\desktop\实验5\test_homework5_1\main.cpp
+	<iostream>
+	"complex.h"
+
+1526712937 source:c:\users\impressionyang\desktop\实验5\test_homework5_1\complex.cpp
+	"complex.h"
+	<iostream>
+
+1526711799 c:\users\impressionyang\desktop\实验5\test_homework5_1\complex.h
+

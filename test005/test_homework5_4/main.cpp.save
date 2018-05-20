@@ -1,0 +1,12 @@
+#include <iostream>
+#include"student.h"
+using namespace std;
+
+int main()
+{
+    Student s1(1001,"233",f);
+    Teacher(s1,233333);
+    
+    cout << "Hello world!" << endl;
+    return 0;
+}

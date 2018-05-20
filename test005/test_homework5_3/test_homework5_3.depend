@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526717236 source:c:\users\impressionyang\desktop\实验5\test_homework5_3\main.cpp
+	<iostream>
+	"matrix.h"
+
+1526717221 source:c:\users\impressionyang\desktop\实验5\test_homework5_3\martix.cpp
+	"matrix.h"
+	<iostream>
+
+1526717033 c:\users\impressionyang\desktop\实验5\test_homework5_3\matrix.h
+

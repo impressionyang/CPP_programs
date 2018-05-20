@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test204 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\IMPRES~1\AppData\Local\Temp\RSPCC94.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test204.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\impressionyang\Desktop\实验2\test204.cpp"
+]
+Creating command line "cl.exe @C:\Users\IMPRES~1\AppData\Local\Temp\RSPCC94.tmp" 
+<h3>Output Window</h3>
+Compiling...
+test204.cpp
+C:\Users\impressionyang\Desktop\实验2\test204.cpp(15) : warning C4390: ';' : empty controlled statement found; is this the intent?
+
+
+
+<h3>Results</h3>
+test204.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

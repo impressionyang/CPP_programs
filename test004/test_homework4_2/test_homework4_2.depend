@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526701413 source:c:\users\impressionyang\desktop\实验4\test_homework4_2\main.cpp
+	<iostream>
+	"product.h"
+
+1526701249 source:c:\users\impressionyang\desktop\实验4\test_homework4_2\product.cpp
+	<iostream>
+	"product.h"
+
+1526700537 c:\users\impressionyang\desktop\实验4\test_homework4_2\product.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526110017 source:c:\users\impressionyang\desktop\实验4\test_homework4_1\main.cpp
+	<iostream>
+	"student.h"
+
+1526109515 c:\users\impressionyang\desktop\实验4\test_homework4_1\student.h
+	<iostream>
+

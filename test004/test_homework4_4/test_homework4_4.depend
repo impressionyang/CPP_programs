@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526702922 source:c:\users\impressionyang\desktop\实验4\test_homework4_4\main.cpp
+	<iostream>
+	"compare.h"
+
+1526703374 c:\users\impressionyang\desktop\实验4\test_homework4_4\compare.h
+
+1526703238 source:c:\users\impressionyang\desktop\实验4\test_homework4_4\compare.cpp
+
