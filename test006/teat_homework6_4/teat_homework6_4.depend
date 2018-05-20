@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526820053 source:c:\users\impressionyang\desktop\test006\teat_homework6_4\main.cpp
+	<iostream>
+	"teacher.h"
+
+1526820173 source:c:\users\impressionyang\desktop\test006\teat_homework6_4\teacher.cpp
+	"teacher.h"
+	<iostream>
+
+1526820546 c:\users\impressionyang\desktop\test006\teat_homework6_4\teacher.h
+	<string>
+

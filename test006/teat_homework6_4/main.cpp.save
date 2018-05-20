@@ -1,0 +1,10 @@
+#include <iostream>
+#include"teacher.h"
+
+using namespace std;
+
+int main()
+{
+    Te
+    return 0;
+}
