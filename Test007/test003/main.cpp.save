@@ -1,0 +1,26 @@
+#include <iostream>
+#include"shap.h"
+using namespace std;
+
+//提前声明
+void printArea(const Shape &s);
+
+int main()
+{
+    Circle circle(10);                                             //建立Circle类对象circle
+    cout<<"圆的面积    =";
+    printArea(circle);                                               //输出circle的面积
+    Rectangle rectangle(5,8);                                    //建立Rectangle类对象rectangle
+    cout<<"矩形的面积 =";
+    printArea(rectangle);                                            //输出rectangle的面积
+    Triangle triangle(4,7); //建立Triangle类对象
+    cout<<"area of triangle  =";
+    printArea(triangle);           //输出triangle的面积
+    return 0;
+}
+
+//输出面积的函数
+void printArea(const Shape &s)
+{
+    cout<<s.area()<<endl;   //输出s的面积
+}

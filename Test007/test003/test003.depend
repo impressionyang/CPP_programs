@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1527253638 source:e:\github_backup\cpp_programs\test007\test003\main.cpp
+	<iostream>
+	"shap.h"
+
+1527312842 e:\github_backup\cpp_programs\test007\test003\shap.h
+
+1527253399 source:e:\github_backup\cpp_programs\test007\test003\shap.cpp
+

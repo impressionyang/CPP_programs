@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527252939 source:e:\github_backup\cpp_programs\test007\test002\main.cpp
+	<iostream>
+	"point.h"
+
+1527305629 e:\github_backup\cpp_programs\test007\test002\point.h
+	<iostream>
+
